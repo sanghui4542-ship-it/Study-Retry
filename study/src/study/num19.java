@@ -1,0 +1,14 @@
+package study;
+
+public class num19 {
+	int studentID;
+	String studentName;
+	int grade;
+	String address;
+	
+	public void showStudentInfo() {
+		System.out.println(studentName + " " + address);
+		
+	}
+
+}
