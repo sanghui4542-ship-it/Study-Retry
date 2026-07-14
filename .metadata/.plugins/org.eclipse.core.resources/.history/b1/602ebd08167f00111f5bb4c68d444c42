@@ -1,6 +1,6 @@
 package study;
 
-public class num2 {
+public class Subject {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
