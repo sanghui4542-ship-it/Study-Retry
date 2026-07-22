@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;thisex.thisExample&apos; to &apos;ThisExample&apos;&#x0D;&#x0A;- Original project: &apos;study&apos;&#x0D;&#x0A;- Original element: &apos;thisex.thisExample&apos;&#x0D;&#x0A;- Renamed element: &apos;thisex.ThisExample&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;thisExample&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;thisex{thisExample.java[thisExample" matchStrategy="1" name="ThisExample" qualified="false" references="true" similarDeclarations="false" stamp="1784677907727" textual="false" version="1.0"/>
+</session>
