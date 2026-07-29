@@ -4,4 +4,6 @@
     <fullyQualifiedTypeName name="thisex.ReturnItSelf"/>
     <fullyQualifiedTypeName name="jdk.jshell.JShell.Builder"/>
     <fullyQualifiedTypeName name="thisex.builder.Student.Builder"/>
+    <fullyQualifiedTypeName name="staticex.Student1"/>
+    <fullyQualifiedTypeName name="staticex.Student2"/>
 </qualifiedTypeNameHistroy>
