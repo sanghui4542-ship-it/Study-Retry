@@ -6,4 +6,5 @@
     <fullyQualifiedTypeName name="thisex.builder.Student.Builder"/>
     <fullyQualifiedTypeName name="staticex.Student1"/>
     <fullyQualifiedTypeName name="staticex.Student2"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
 </qualifiedTypeNameHistroy>
