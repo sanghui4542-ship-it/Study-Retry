@@ -4,6 +4,14 @@ public class VIPCustomer extends Customer {
 	private int agentID;
 	double saleRatio;
 	
+	
+	
+	@Override
+	public int calcPrice(int price) {
+		bonusPoint += price * bonusRatio;
+		return price - (int)(price * saleRatio);
+	}
+
 	public VIPCustomer(int customerID, String customerName, int agentID) {
 		super(customerID, customerName);
 		customerGrade = "VIP";
