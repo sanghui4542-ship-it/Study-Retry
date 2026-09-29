@@ -1,6 +1,6 @@
 package inheritance;
 
-public class CustoberTest {
+public class CustomerTest {
 	public static void main(String[] args) {
 		Customer customerLee = new Customer();
 		customerLee.setCustomerID(10010);
